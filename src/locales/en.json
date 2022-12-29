@@ -1,0 +1,20 @@
+{
+    "home" : "Home",
+    "Signin" : "Sign In",
+    "Signup" : "Sign Up",
+    "Signout" : "Sign Out",
+    "dontHaveAccount" : "Don't have an account?",
+    "welcomeText" : "Welcome Back",
+    "welcomeText2" : "Please enter your details.",
+    "email" : "Email",
+    "password" : "Password",
+    "name" : "Name",
+    "enterEmail" : "Enter your email",
+    "alreadyRegistered" : "Already Registered?",
+    "country" : "Country",
+    "confirmed" : "Confirmed",
+    "recovered" : "Recovered",
+    "death" : "Death",
+    "search" : "Search"
+
+}
