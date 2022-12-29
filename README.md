@@ -1,6 +1,12 @@
-# testingsanctumclient
+# Sanctum Client VUEJS 3
 
 ## Project setup
+
+## Delete node modules
+```
+rm -rf node_modules
+```
+## Install Dependencies
 ```
 npm install
 ```
@@ -14,12 +20,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Redberry-Project-Frontent-VueJS3
