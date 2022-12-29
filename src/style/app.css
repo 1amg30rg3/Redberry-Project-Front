@@ -372,7 +372,14 @@ body{
     margin-bottom: 10px;
 }
 
-
+@media only screen and (max-width: 760px) {
+    .flex{
+        display: block;
+    }
+    .card{
+        margin-bottom: 20px;
+    }
+}
 
 
 .m_top{
